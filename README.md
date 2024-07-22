@@ -28,8 +28,9 @@ To deploy this project run the FDTD-last.py code.
 ![General Conditions](Gif/General_Conditions.png)
 
 * Frequency Conditions: Therefore, for this example, the following scenarios are considered, both divided by the cut-off frequency F<sub>0</sub>.
-
-![Frequency Conditions](Gif/Frequency_Conditions.png)
+<div style="text-align: center;">
+  <img src="Gif/Frequency_Conditions.png" alt="Frequency Conditions">
+</div>
 
 * High Frequency: An electromagnetic wave (components of the electric and magnetic field) of frequency 0.21 units can be seen travelling through space, colliding with a barrier (bounded by two vertical bars). The phenomena of reflection and transmission are noteworthy.
 
